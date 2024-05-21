@@ -1,3 +1,5 @@
+Group Members: Vicki Wu (vicki-wu), Jackie Yee (pasteldetective),  Raitah Jinnat (raitah.jinnat83@myhunter.cuny.edu), Ashleigh Wong (AshleighWong)
+
 # server-starter-code
 
 This repository is the server (back-end) starter code for Final Project - Full-Stack CRUD Application.
